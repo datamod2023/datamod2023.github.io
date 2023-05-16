@@ -195,9 +195,7 @@ p.satellite a{
 	color: white;
 }
 
-p.satellite a:hover{
-	color: #003844;
-}
+
 
 div.iconsInfo{
 	display: inline-block;
