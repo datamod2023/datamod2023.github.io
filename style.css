@@ -75,7 +75,7 @@ img {
 }
 a {
     outline: 0 !important;
-	color: #AF1B71;
+	color: #003844;
 	font-weight: bold;
 }
 
@@ -834,7 +834,7 @@ div#organization div.row{
 	position: relative;
 }
 .navbar-fixed-top.menu-block .container {
-	border: 2px solid #af1b71;
+	border: 2px solid #003844;
 	border-top: none;
 	max-width: 1170px;
 }
