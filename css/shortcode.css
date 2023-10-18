@@ -647,7 +647,7 @@
 	-o-transition: all 1s ease 0s;	
 }
 .schedule-block .nav-tabs > li.active  {
-	background-color: #feca16;
+	background-color: #003844;
 }
 .schedule-block .nav-tabs > li::after  {
 	position: absolute;
@@ -692,7 +692,7 @@
 .schedule-block .nav-tabs > li.active > a:hover {
 	border: none;	
 	color: #fff;
-	background-color: #feca16;
+	background-color: #003844;
 }
 .schedule-block .nav-tabs > li.active > a h3,
 .schedule-block .nav.nav-tabs li.active span{
